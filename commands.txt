@@ -9,4 +9,5 @@ git commit -m "message"
 git 
 git remote add text
 git remote -v
+git push test master
 
